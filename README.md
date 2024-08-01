@@ -1,6 +1,6 @@
 ## More information about me
 
-<link rel="stylesheet" href="https://github.com/brunor18/partecss.git">
+<link rel="stylesheet" href="partecss.css">
 
 <div>  
 
