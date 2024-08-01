@@ -13,16 +13,16 @@
 
    <div2>
 
-   <img height="360px" src= "https://github.com/user-attachments/assets/bb989423-c15d-41ba-85bb-dee6521c6a24">
+   <img height="260px" src= "https://github.com/user-attachments/assets/bb989423-c15d-41ba-85bb-dee6521c6a24">
    <p>Cybersecurity Essentials - CISCO</p>
    <p></p>
-
-   
-   <img height="360px" src= "https://github.com/user-attachments/assets/5cb36897-b2e3-41c2-ac97-d49d7773e1b1">
+</div>
+         
+   <img height="260px" src= "https://github.com/user-attachments/assets/5cb36897-b2e3-41c2-ac97-d49d7773e1b1">
    <p>PCAP - Programming Essentials in Pythons - CISCO / OpenEDG </p>
    <p></p>
 
-   <img height="360px" src= "https://github.com/user-attachments/assets/dfbbfcc2-733c-49f1-a8d4-88584a2ebd4a">
+   <img height="260px" src= "https://github.com/user-attachments/assets/dfbbfcc2-733c-49f1-a8d4-88584a2ebd4a">
    <p>TOEIC Bridge - Listening and Reading Test</p>
    <p></p>
    <p>(The TOEIC test was taken at the intermediate level)</p>
