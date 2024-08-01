@@ -1,6 +1,5 @@
 ## More information about me
 
-<link rel="stylesheet" href="partecss.css">
 
 <div>  
 
