@@ -1,6 +1,10 @@
 ## More information about me
+
+<link rel="stylesheet" href="https://github.com/brunor18/partecss.git">
+
 <div>  
 
+    
   <img height="30px" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Information_icon.svg/600px-Information_icon.svg.png">Python, PHP, Java, HTML and CSS are my main lauguages
   
   <img height="30px" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Information_icon.svg/600px-Information_icon.svg.png"> I speak  two languagues, portuguese and english, i consider my english at a intermediate level
