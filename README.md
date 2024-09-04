@@ -12,23 +12,6 @@
 
  </div>
   
-  ## Certificados
 
-   <div2>
-
-   <p>Cybersecurity Essentials - CISCO</p>
-   <p></p>
-   </div2>
-
-   <div3>      
-   <p>PCAP - Programming Essentials in Pythons - CISCO / OpenEDG </p>
-   <p></p>
-   </div3>
-
-   <div4>
-   <p>TOEIC Bridge - Listening and Reading Test</p>
-   <p></p>
-   <p>(A prova TOEIC foi feita no nível intermediário e acertei 90 de 100)</p>
-   </div4>
 
 
