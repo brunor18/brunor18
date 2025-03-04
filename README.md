@@ -1,16 +1,17 @@
-## Mais informação sobre mim
+## Bem vindo
 
 
-<div>  
+<strong>
+-Expêriencia em Python, PHP, Java, HTML, CSS
+<p></p>
+-Inglês intermediário
+<p></p>
+<p></p>
+-Atualmente eu estou procurando trabalho/estágio
 
-    
-  <img height="30px" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Information_icon.svg/600px-Information_icon.svg.png">Eu tenho expêriencia em Python, PHP e Java 
-  
-  <img height="30px" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Information_icon.svg/600px-Information_icon.svg.png"> Eu falo duas línguas, português e inglês, eu considero o meu nível de inglês intermediário
 
-  <img height="30px" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Information_icon.svg/600px-Information_icon.svg.png">Atualmente eu estou procurando trabalho/estágio
 
- </div>
+
   
 
 
