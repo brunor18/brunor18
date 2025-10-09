@@ -2,7 +2,7 @@
 
 
 <strong>
--Expêriencia em Python, PHP, Java, HTML, CSS
+-Expêriencia em Python, PHP, Java, HTML, CSS, C#
 <p></p>
 -Inglês intermediário
 <p></p>
